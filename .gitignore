@@ -1,0 +1,34 @@
+# Java and Maven
+target/
+*.class
+*.jar
+*.war
+
+# React and Node.js
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE files
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Vim and editor temporary files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
